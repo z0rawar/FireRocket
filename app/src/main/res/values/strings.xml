@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FireRocket</string>
+    <string name="fav_failure">Err..We can\'t save your favourite right now. Please try again!</string>
+    <string name="save_failure_image">Err..This pic was eaten up by aliens. Please try with another!</string>
+    <string name="save_failure_duplicate">Oops! This pic\'s already added to your wardrobe before!</string>
+    <string name="image_picker_title">Select an image from..</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="gallery_req">Oops! You need to grant this permission for Gallery to work!</string>
+    <string name="camera_req">Oops! You need to grant this permission for Camera to work!</string>
+</resources>
